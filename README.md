@@ -8,6 +8,6 @@ Tenemos link de referencia mas documentos Agosto 2024
 - Codepen
 - https://codepen.io/
 
-- Bienvenido a www.mclibre.org. Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc) bajo licencias libres (CC-by-sa).
+- Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc) bajo licencias libres (CC-by-sa).
 - https://www.mclibre.org/
 
