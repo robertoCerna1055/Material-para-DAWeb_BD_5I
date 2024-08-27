@@ -15,4 +15,6 @@ Tenemos link de referencia mas documentos Agosto 2024
 - ## Framework y lenguaje de programacion
 - Paginas web para programacion
 - https://www.w3schools.com/
+- Python
+- https://www.w3schools.com/python/default.asp
 
