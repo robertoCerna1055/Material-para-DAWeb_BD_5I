@@ -20,3 +20,6 @@ Tenemos link de referencia mas documentos Agosto 2024
 - Descargar Python
 - https://www.python.org/downloads/
 
+- Programacion en online
+- https://coddy.tech/
+
