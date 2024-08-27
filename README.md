@@ -25,5 +25,7 @@ Tenemos link de referencia mas documentos Agosto 2024
 
 - ![image](https://github.com/user-attachments/assets/fcd131cf-0d34-41de-b6c2-ed9ef1dc5897)
 
+## Diseño web con Figma
+
 
 
